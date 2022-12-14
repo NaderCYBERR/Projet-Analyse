@@ -10,7 +10,10 @@
 <img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/video-games-and-block-chain.jpeg"  />
 
 
-# my data set
+# My Data Set :
+
+
+<Fonty color="red">Regarde, voici tes données de jeux vidéo </fonty>
 
 |Rank|Name                                        |Platform|Year|Genre       |Publisher             |NA_Sales|EU_Sales|JP_Sales|Other_Sales|Global_Sales|
 |----|--------------------------------------------|--------|----|------------|----------------------|--------|--------|--------|-----------|------------|
@@ -34,6 +37,24 @@
 |18  |Grand Theft Auto: San Andreas               |PS2     |2004|Action      |Take-Two Interactive  |9.43    |0.4     |0.41    |10.57      |20.81       |
 |19  |Super Mario World                           |SNES    |1990|Platform    |Nintendo              |12.78   |3.75    |3.54    |0.55       |20.61       |
 |20  |Brain Age: Train Your Brain in Minutes a Day|DS      |2005|Misc        |Nintendo              |4.75    |9.26    |4.16    |2.05       |20.22       |
+
+
+Analyse et visualisation des ventes de jeux vidéo
+1. Quels jeux de genre ont été le plus développés ?
+2. Quelle année a eu le plus de sorties de jeux ?
+3. Meilleures sorties de jeux des 5 dernières années par genre.
+4. Quelle année a enregistré les ventes les plus élevées au monde ?
+5. Quel genre de jeu a été le plus sorti en une seule année ?
+6. Quel jeu de genre s'est le plus vendu en une seule année ?
+7. Quel genre de jeu a le prix de vente le plus élevé au monde
+8. Quelle plate-forme a le prix de vente le plus élevé au monde
+9. Quel jeu a le prix de vente le plus élevé au monde ?
+10. Comparaison des ventes par genre
+11. Comparaison des ventes par plateforme
+12. Top 20 des éditeurs
+
+
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaderCYBERR/Projet-Analyse/HEAD)
 
