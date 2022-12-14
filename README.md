@@ -13,7 +13,7 @@
 # My Data Set :
 
 
-<Fonty color="red">Regarde, voici tes données de jeux vidéo </fonty>
+* Regarde, voici tes données de jeux vidéo 
 
 |Rank|Name                                        |Platform|Year|Genre       |Publisher             |NA_Sales|EU_Sales|JP_Sales|Other_Sales|Global_Sales|
 |----|--------------------------------------------|--------|----|------------|----------------------|--------|--------|--------|-----------|------------|
@@ -46,17 +46,18 @@ Analyse et visualisation des ventes de jeux vidéo
 4. Quelle année a enregistré les ventes les plus élevées au monde ?
 5. Quel genre de jeu a été le plus sorti en une seule année ?
 6. Quel jeu de genre s'est le plus vendu en une seule année ?
-7. Quel genre de jeu a le prix de vente le plus élevé au monde
-8. Quelle plate-forme a le prix de vente le plus élevé au monde
+7. Quel genre de jeu a le prix de vente le plus élevé au monde?
+8. Quelle plate-forme a le prix de vente le plus élevé au monde?
 9. Quel jeu a le prix de vente le plus élevé au monde ?
 10. Comparaison des ventes par genre
 11. Comparaison des ventes par plateforme
 12. Top 20 des éditeurs
 
 
-
+<center>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaderCYBERR/Projet-Analyse/HEAD)
+</center>
 
 
 
