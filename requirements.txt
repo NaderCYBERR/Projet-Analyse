@@ -1,7 +1,8 @@
 panda
-matplotlib
+plotly.express
+plotly.graph_objects
 warnings
-numpy
+
 
 
 
