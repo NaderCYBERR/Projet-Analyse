@@ -54,13 +54,6 @@ the fundamentals of plotly by visualizing the result using simple yet interactiv
 |11  |Nintendogs                                  |DS      |2005|Simulation  |Nintendo              |9.07    |11      |1.93    |2.75       |24.76       |
 |12  |Mario Kart DS                               |DS      |2005|Racing      |Nintendo              |9.81    |7.57    |4.13    |1.92       |23.42       |
 |13  |Pokemon Gold/Pokemon Silver                 |GB      |1999|Role-Playing|Nintendo              |9       |6.18    |7.2     |0.71       |23.1        |
-|14  |Wii Fit                                     |Wii     |2007|Sports      |Nintendo              |8.94    |8.03    |3.6     |2.15       |22.72       |
-|15  |Wii Fit Plus                                |Wii     |2009|Sports      |Nintendo              |9.09    |8.59    |2.53    |1.79       |22          |
-|16  |Kinect Adventures!                          |X360    |2010|Misc        |Microsoft Game Studios|14.97   |4.94    |0.24    |1.67       |21.82       |
-|17  |Grand Theft Auto V                          |PS3     |2013|Action      |Take-Two Interactive  |7.01    |9.27    |0.97    |4.14       |21.4        |
-|18  |Grand Theft Auto: San Andreas               |PS2     |2004|Action      |Take-Two Interactive  |9.43    |0.4     |0.41    |10.57      |20.81       |
-|19  |Super Mario World                           |SNES    |1990|Platform    |Nintendo              |12.78   |3.75    |3.54    |0.55       |20.61       |
-|20  |Brain Age: Train Your Brain in Minutes a Day|DS      |2005|Misc        |Nintendo              |4.75    |9.26    |4.16    |2.05       |20.22       |
 
 
 
@@ -88,11 +81,7 @@ Each row in the dataset represents a game, whereas, each column contains differe
 2. The top gaming consoles are Microsoft (Xbox), Sony     (Playstation) and Nintendo, with Google acting as a new competitor. Does the dataset also back this information? Analyze with respect to different regions.
 3. What are the top 10 games currently making the most sales globally?
 4. What are the top games for different regions?
-5. Are there any games with release year older than 2000 that are still making high sales? What are they?
 
-6. What are the top gaming genres that are making high sales?
-7. Does the publisher have any impact on the regional sales?
-8. Is there any region that has out-performed global average sales?
 
 <center>
 
