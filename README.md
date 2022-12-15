@@ -18,18 +18,18 @@ les fondamentaux de plotly en visualisant le résultat à l'aide de graphiques s
 <br>
 <hr>
 
-- Objectives :
+* **Objectifs** :
 
 
-1.  Use pandas library to analyze different features of the dataset, which includes,
+1.  Utilisez la bibliothèque pandas pour analyser différentes fonctionnalités de l'ensemble de données, qui comprend,
    
-    * Read the dataset.
-    * Use functions like df.query and df.groupby.
-    * Analyze the sales for different regions with respect to various features.
+     * Lire l'ensemble de données.
+     * Utilisez des fonctions comme df.query et df.groupby.
+     * Analyser les ventes pour différentes régions en fonction de diverses fonctionnalités.
   
-2. Use plotly library to visualize the given results.
+2. Utilisez la bibliothèque plotly pour visualiser les résultats donnés.
 
-   * Plot graphs like bar graphs and pie charts.
+    * Tracer des graphiques comme des graphiques à barres et des camemberts.
 
 
 # My Data Set :
