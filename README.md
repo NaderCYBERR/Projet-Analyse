@@ -57,30 +57,30 @@ the fundamentals of plotly by visualizing the result using simple yet interactiv
 
 
 
-* Understanding the dataset
-This dataset contains a list of video games with sales greater than 100,000 copies. 
-Each row in the dataset represents a game, whereas, each column contains different attributes.
+* Comprendre le jeu de données
+Cet ensemble de données contient une liste de jeux vidéo vendus à plus de 100 000 exemplaires.
+Chaque ligne de l'ensemble de données représente un jeu, tandis que chaque colonne contient des attributs différents.
 
-* The data set includes information about:
+* L'ensemble de données comprend des informations sur :
 
-- Rank - The overall rank of the game.
-- Name - The name of the game.
-- Platform- The platform on which the game was released.
-- Year- The year in which the game was released.
-- Genre-The genre of the game.
-- Publisher-The publisher of the game.
-- NA_Sales, EU_Sales, JP_Sales , Other_Sales, Global_Sales Sales made by a particular game in North America, Europe, Japan, Other regions and Globally (in millions).
-
-
+- Rank -Le classement général du jeu.
+- Name - Le nom du jeu.
+- Platform- La plate-forme sur laquelle le jeu est sorti.
+- Year- L'année de sortie du jeu.
+- Genre- Le genre du jeu.
+- Publisher- L'éditeur du jeu.
+- NA_Sales, EU_Sales, JP_Sales , Other_Sales, Global_Sales Ventes réalisées par un jeu particulier en Amérique du Nord, en Europe, au Japon, dans d'autres régions et dans le monde (en millions).
 
 
 
-# You want to find the answers to the following questions:
 
-1. Which region has performed the best in terms of sales?
-2. The top gaming consoles are Microsoft (Xbox), Sony     (Playstation) and Nintendo, with Google acting as a new competitor. Does the dataset also back this information? Analyze with respect to different regions.
-3. What are the top 10 games currently making the most sales globally?
-4. What are the top games for different regions?
+
+# Vous souhaitez trouver les réponses aux questions suivantes :
+
+1. Quelle région a le mieux performé en termes de ventes ?
+2. Les meilleures consoles de jeu sont Microsoft (Xbox), Sony (Playstation) et Nintendo, Google agissant comme un nouveau concurrent. L'ensemble de données contient-il également ces informations ? Analysez par rapport aux différentes régions.
+3. Quels sont les 10 jeux les plus vendus actuellement dans le monde ?
+4. Quels sont les meilleurs jeux pour différentes régions ?
 
 
 <center>
