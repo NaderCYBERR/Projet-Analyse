@@ -7,8 +7,8 @@
 
 
 
-- Analyzing the 'Video Game Sales Analysis' dataset with the help of pandas library and learn 
-the fundamentals of plotly by visualizing the result using simple yet interactive graphs.
+- Analyse de l'ensemble de données "Analyse des ventes de jeux vidéo" à l'aide de la bibliothèque pandas et apprentissage
+les fondamentaux de plotly en visualisant le résultat à l'aide de graphiques simples mais interactifs.
 <br>
 <hr>
 <img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/video-games-and-block-chain.jpeg"  />
