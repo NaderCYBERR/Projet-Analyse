@@ -1,19 +1,43 @@
-# Projet Analyse De donnée :
+# Projet Analyse De donnée  EPI :
 
 
-# Analyse et visualisation des ventes de jeux vidéo
+# Video Game Sales Analysis
 
 <hr>
+
+
+
+- Analyzing the 'Video Game Sales Analysis' dataset with the help of pandas library and learn 
+the fundamentals of plotly by visualizing the result using simple yet interactive graphs.
 <br>
-
-
+<hr>
 <img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/video-games-and-block-chain.jpeg"  />
+
+
+
+<br>
+<hr>
+
+- Objectives :
+
+
+1.  Use pandas library to analyze different features of the dataset, which includes,
+   
+    * Read the dataset.
+    * Use functions like df.query and df.groupby.
+    * Analyze the sales for different regions with respect to various features.
+  
+2. Use plotly library to visualize the given results.
+
+   * Plot graphs like bar graphs and pie charts.
 
 
 # My Data Set :
 
 
-* Regarde, voici tes données de jeux vidéo 
+
+
+* Video games data.
 
 |Rank|Name                                        |Platform|Year|Genre       |Publisher             |NA_Sales|EU_Sales|JP_Sales|Other_Sales|Global_Sales|
 |----|--------------------------------------------|--------|----|------------|----------------------|--------|--------|--------|-----------|------------|
@@ -39,20 +63,36 @@
 |20  |Brain Age: Train Your Brain in Minutes a Day|DS      |2005|Misc        |Nintendo              |4.75    |9.26    |4.16    |2.05       |20.22       |
 
 
-Analyse et visualisation des ventes de jeux vidéo
-1. Quels jeux de genre ont été le plus développés ?
-2. Quelle année a eu le plus de sorties de jeux ?
-3. Meilleures sorties de jeux des 5 dernières années par genre.
-4. Quelle année a enregistré les ventes les plus élevées au monde ?
-5. Quel genre de jeu a été le plus sorti en une seule année ?
-6. Quel jeu de genre s'est le plus vendu en une seule année ?
-7. Quel genre de jeu a le prix de vente le plus élevé au monde?
-8. Quelle plate-forme a le prix de vente le plus élevé au monde?
-9. Quel jeu a le prix de vente le plus élevé au monde ?
-10. Comparaison des ventes par genre
-11. Comparaison des ventes par plateforme
-12. Top 20 des éditeurs
 
+* Understanding the dataset
+This dataset contains a list of video games with sales greater than 100,000 copies. 
+Each row in the dataset represents a game, whereas, each column contains different attributes.
+
+* The data set includes information about:
+
+- Rank - The overall rank of the game.
+- Name - The name of the game.
+- Platform- The platform on which the game was released.
+- Year- The year in which the game was released.
+- Genre-The genre of the game.
+- Publisher-The publisher of the game.
+- NA_Sales, EU_Sales, JP_Sales , Other_Sales, Global_Sales Sales made by a particular game in North America, Europe, Japan, Other regions and Globally (in millions).
+
+
+
+
+
+# You want to find the answers to the following questions:
+
+1. Which region has performed the best in terms of sales?
+2. The top gaming consoles are Microsoft (Xbox), Sony     (Playstation) and Nintendo, with Google acting as a new competitor. Does the dataset also back this information? Analyze with respect to different regions.
+3. What are the top 10 games currently making the most sales globally?
+4. What are the top games for different regions?
+5. Are there any games with release year older than 2000 that are still making high sales? What are they?
+
+6. What are the top gaming genres that are making high sales?
+7. Does the publisher have any impact on the regional sales?
+8. Is there any region that has out-performed global average sales?
 
 <center>
 
